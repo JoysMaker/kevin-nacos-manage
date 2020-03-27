@@ -1,0 +1,65 @@
+sms:
+  smsTemplates:
+    #摩氧用户-注册登录-快速登录-验证码
+    - type: TYPE1
+      code: SMS_154586387
+      sign: 摩氧
+      prefix: START_CODE_KEY_
+      smstype: code
+    #摩氧用户-注册登录-忘记密码-验证码
+    - type: TYPE2
+      code: SMS_154586485
+      sign: 摩氧
+      prefix: MOX_FORGET_PWD_
+      smstype: code
+    #摩氧用户-银行卡绑定-绑定银行卡-验证码
+    - type: TYPE3
+      code: SMS_154586488
+      sign: 摩氧
+      prefix: MOX_BINDING_CARD_
+      smstype: code
+    #后台管理账号：${login_name}，密码：${password}。登录地址：http://pc.mooxygen.com。
+    - type: TYPE4
+      code: SMS_157095132
+      sign: 摩氧
+      smstype: inform
+    #您好，您的预约订单已支付成功。请在${time}前到${station}站点获取设备。站点地址：${address}，站点电话：${telephone}。在取货时间前48小时取消，不收取任何手续费
+    - type: TYPE5
+      code: SMS_157100136
+      sign: 摩氧
+      smstype: inform
+    #您好，距离取货时间还有${time}小时，请按预约时间准时到${station}站点获取设备，以免减少设备的使用时长。
+    - type: TYPE6
+      code: SMS_157100143
+      sign: 摩氧
+      smstype: inform
+    #您的报修订单维修人员已收到。联系电话：${telephone}。
+    - type: TYPE7
+      code: SMS_157110105
+      sign: 摩氧
+      smstype: inform
+    #账号：${login_name}，密码：${password}。 点击 http://t.cn/E5Boke9 下载摩氧管理端APP。
+    - type: TYPE8
+      code: SMS_157110468
+      sign: 摩氧
+      smstype: inform
+    #您好，您的设备租赁时间将要结束。请下载摩氧APP http://t.cn/E5BoHJA 在'我的订单'中进行续费或及时归还。
+    - type: TYPE9
+      code: SMS_157105505
+      sign: 摩氧
+      smstype: inform
+    #您的设备使用已超期，请下载摩氧APP http://t.cn/E5BoHJA 在'我的订单'中进行续费或及时归还。
+    - type: TYPE10
+      code: SMS_157105508
+      sign: 摩氧
+      smstype: inform
+    #您好，您已成功注册为摩氧会员。更多服务请下载摩氧APP http://t.cn/E5BoHJA 。回T退订
+    - type: TYPE11
+      code: SMS_157105509
+      sign: 摩氧
+      smstype: inform
+    #您好，您已成功注册为摩氧会员。更多服务请下载摩氧APP http://t.cn/E5BoHJA 。回T退订
+    - type: TYPE12
+      code: SMS_157105509
+      sign: 摩氧
+      smstype: code

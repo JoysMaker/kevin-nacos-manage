@@ -1,0 +1,12 @@
+com\kevin\usc\common\persistent\po\TUser.class
+com\kevin\usc\common\persistent\mybaits\BcscAdminUserMapper.class
+com\kevin\usc\common\persistent\mybaits\TUserMapper.class
+com\kevin\usc\common\config\bean\SmsTemplate.class
+com\kevin\usc\common\persistent\jpa\TUserRepository.class
+com\kevin\usc\common\persistent\po\BcscAdminUser.class
+com\kevin\usc\CommonServerApplication.class
+com\kevin\usc\common\mvc\controller\CommonController.class
+com\kevin\usc\common\mvc\service\TUserService.class
+com\kevin\usc\common\persistent\po\BcChangeLimitApptmt.class
+com\kevin\usc\common\config\SmsConfig.class
+com\kevin\usc\common\persistent\mybaits\BcChangeLimitApptmtMapper.class

@@ -1,0 +1,10 @@
+com\kevin\usc\test\persistent\jpa\TeacherRepository.class
+com\kevin\usc\test\service\OrderService.class
+com\kevin\usc\TestServerApplication.class
+com\kevin\usc\test\persistent\jpa\OrderRepository.class
+com\kevin\usc\test\persistent\po\Teacher.class
+com\kevin\usc\test\persistent\po\Order.class
+com\kevin\usc\test\mvc\TestController.class
+com\kevin\usc\test\persistent\mybatis\OrderMapper.class
+com\kevin\usc\test\persistent\mybatis\TeacherMapper.class
+com\kevin\usc\test\service\TeacherService.class

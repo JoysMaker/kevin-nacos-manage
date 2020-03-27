@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.kevin.usc.common.persistent.mybaits.BcChangeLimitApptmtMapper">
+  <resultMap id="BaseResultMap" type="com.kevin.usc.common.persistent.po.BcChangeLimitApptmt">
+    <id column="APPTMT_ID" jdbcType="DECIMAL" property="apptmtId" />
+    <result column="CUST_ID" jdbcType="DECIMAL" property="custId" />
+    <result column="ACCT_ID" jdbcType="DECIMAL" property="acctId" />
+    <result column="ACCT_ITEM_GROUP_ID" jdbcType="DECIMAL" property="acctItemGroupId" />
+    <result column="CC_TYPE" jdbcType="DECIMAL" property="ccType" />
+    <result column="PROD_INST_ID" jdbcType="DECIMAL" property="prodInstId" />
+    <result column="COMP_INST_ID" jdbcType="DECIMAL" property="compInstId" />
+    <result column="CHARGE_UTIL" jdbcType="VARCHAR" property="chargeUtil" />
+    <result column="PAYMENT_LIMIT" jdbcType="DECIMAL" property="paymentLimit" />
+    <result column="UPPER_AMOUNT" jdbcType="DECIMAL" property="upperAmount" />
+    <result column="DAILY_CEIL_LIMIT" jdbcType="DECIMAL" property="dailyCeilLimit" />
+    <result column="CREATE_STAFF" jdbcType="DECIMAL" property="createStaff" />
+    <result column="CREATE_DATE" jdbcType="TIMESTAMP" property="createDate" />
+    <result column="UPDATE_STAFF" jdbcType="DECIMAL" property="updateStaff" />
+    <result column="UPDATE_DATE" jdbcType="TIMESTAMP" property="updateDate" />
+    <result column="EFF_DATE" jdbcType="TIMESTAMP" property="effDate" />
+    <result column="EXP_DATE" jdbcType="TIMESTAMP" property="expDate" />
+    <result column="STATUS_DATE" jdbcType="TIMESTAMP" property="statusDate" />
+    <result column="ERR_MSG" jdbcType="VARCHAR" property="errMsg" />
+    <result column="TRY_TIMES" jdbcType="DECIMAL" property="tryTimes" />
+    <result column="REMARKS" jdbcType="VARCHAR" property="remarks" />
+    <result column="PRIORITY" jdbcType="DECIMAL" property="priority" />
+  </resultMap>
+</mapper>

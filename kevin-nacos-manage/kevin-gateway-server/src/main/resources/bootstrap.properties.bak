@@ -1,0 +1,4 @@
+spring.cloud.nacos.discovery.server-addr=localhost:8848
+spring.cloud.nacos.discovery.namespace=b35f3660-8045-4138-bfc4-beb2b8535b65
+spring.cloud.nacos.config.server-addr=localhost:8848
+spring.cloud.nacos.config.namespace=b35f3660-8045-4138-bfc4-beb2b8535b65

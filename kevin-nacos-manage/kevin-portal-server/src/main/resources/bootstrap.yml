@@ -1,0 +1,12 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: 127.0.0.1:8848
+        namespace: b35f3660-8045-4138-bfc4-beb2b8535b65
+        ext-config:
+          - data-id: thymeleaf.yaml
+          - data-id: db.yaml
+      discovery:
+        server-addr: 127.0.0.1:8848
+        namespace: b35f3660-8045-4138-bfc4-beb2b8535b65

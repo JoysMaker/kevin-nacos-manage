@@ -1,0 +1,15 @@
+E:\idea\kevin-nacos-manage\kevin-pay-server\src\main\java\com\kevin\usc\pay\mvc\controller\PayController.java
+E:\idea\kevin-nacos-manage\kevin-pay-server\src\main\java\com\kevin\usc\pay\persistent\jpa\TUserRepository.java
+E:\idea\kevin-nacos-manage\kevin-pay-server\src\main\java\com\kevin\usc\pay\config\db\DynamicRoutingDataSource.java
+E:\idea\kevin-nacos-manage\kevin-pay-server\src\main\java\com\kevin\usc\pay\persistent\po\ConfigInfo.java
+E:\idea\kevin-nacos-manage\kevin-pay-server\src\main\java\com\kevin\usc\pay\config\db\DataSourceConfig.java
+E:\idea\kevin-nacos-manage\kevin-pay-server\src\main\java\com\kevin\usc\pay\mvc\service\NacosService.java
+E:\idea\kevin-nacos-manage\kevin-pay-server\src\main\java\com\kevin\usc\pay\persistent\mybatis\ConfigInfoMapper.java
+E:\idea\kevin-nacos-manage\kevin-pay-server\src\main\java\com\kevin\usc\pay\config\db\DynamicDataSourceAspect.java
+E:\idea\kevin-nacos-manage\kevin-pay-server\src\main\java\com\kevin\usc\pay\scheduled\AutoTaskFromDB.java
+E:\idea\kevin-nacos-manage\kevin-pay-server\src\main\java\com\kevin\usc\PayServerApplication.java
+E:\idea\kevin-nacos-manage\kevin-pay-server\src\main\java\com\kevin\usc\pay\persistent\po\TUser.java
+E:\idea\kevin-nacos-manage\kevin-pay-server\src\main\java\com\kevin\usc\pay\config\db\DynamicDataSourceContextHolder.java
+E:\idea\kevin-nacos-manage\kevin-pay-server\src\main\java\com\kevin\usc\pay\config\db\TargetDataSource.java
+E:\idea\kevin-nacos-manage\kevin-pay-server\src\main\java\com\kevin\usc\pay\mvc\service\TUserService.java
+E:\idea\kevin-nacos-manage\kevin-pay-server\src\main\java\com\kevin\usc\pay\persistent\mybatis\TUserMapper.java

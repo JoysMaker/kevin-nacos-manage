@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cee200e-5a7d-4fd8-91dc-f60e5ec0e32c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/soft/eclipse&amp;maven2/apache-maven-3.2.3" />
+        <option name="userSettingsFile" value="E:\soft\eclipse&amp;maven2\apache-maven-3.2.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+    <option name="disabledProfiles">
+      <list>
+        <option value="dev" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TJaQLQ3bmDLNgDh1lEoIVbkHFA" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bcare2/02Product/bcsc-bcare" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15557218" />
+    <property name="project.structure.side.proportion" value="0.7473928" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea\kevin-nacos-manage\kevin-base\src\main\java\com\kevin\usc\base\bean" />
+      <recent name="E:\idea\kevin-nacos-manage\kevin-test-server\src\main\resources" />
+      <recent name="E:\idea\kevin-nacos-manage\kevin-portal-server\src\main\resources\templates\views" />
+      <recent name="E:\idea\kevin-nacos-manage\kevin-portal\src\main\resources" />
+      <recent name="E:\idea\kevin-nacos-manage\kevin-pay-server\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kevin.usc.test.persistent.po" />
+      <recent name="com.kevin.usc" />
+      <recent name="com.kevin.usc.fegin.api" />
+      <recent name="com.kevin.usc.pay.mvc.service" />
+      <recent name="com.kevin.usc.pay.persistent.jpa" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\idea\kevin-nacos-manage\kevin-portal\src\main\resources\templates\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PoiUtils">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CityDto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kevin.usc.test.persistent.po.CityDto" />
+      <module name="kevin-test-server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kevin.usc.test.persistent.po.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GUITest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kevin.usc.core.utils.GUITest" />
+      <module name="kevin-core" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kevin.usc.core.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kevin.usc.test.persistent.po.Order" />
+      <module name="kevin-test-server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kevin.usc.test.persistent.po.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PoiUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kevin.usc.base.utils.PoiUtils" />
+      <module name="kevin-base" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kevin.usc.base.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kevin.usc.test.Test" />
+      <module name="kevin-test-server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kevin.usc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/kevin-common-server" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="cloud-common [mybatis-generator:generate]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/kevin-common-server" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="common-generate" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/kevin-common-server" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="install" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="false" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="pay-generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/kevin-pay-server" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="test-generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/kevin-test-server" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="PayServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kevin-pay-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kevin.usc.PayServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="common" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kevin-common-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kevin.usc.CommonServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gateway" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kevin-gateway-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kevin.usc.GateWayServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pay" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kevin-pay-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kevin.usc.PayServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="portal" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kevin-portal-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kevin.usc.portal.PortalServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kevin-test-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kevin.usc.TestServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GUITest" />
+      <item itemvalue="Application.Order" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.CityDto" />
+      <item itemvalue="Application.PoiUtils" />
+      <item itemvalue="Maven.test-generator" />
+      <item itemvalue="Maven.install" />
+      <item itemvalue="Maven.cloud-common [mybatis-generator:generate]" />
+      <item itemvalue="Maven.common-generate" />
+      <item itemvalue="Maven.pay-generator" />
+      <item itemvalue="Spring Boot.test" />
+      <item itemvalue="Spring Boot.portal" />
+      <item itemvalue="Spring Boot.gateway" />
+      <item itemvalue="Spring Boot.common" />
+      <item itemvalue="Spring Boot.pay" />
+      <item itemvalue="Spring Boot.PayServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PoiUtils" />
+        <item itemvalue="Application.CityDto" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Order" />
+        <item itemvalue="Application.GUITest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cee200e-5a7d-4fd8-91dc-f60e5ec0e32c" name="Default" comment="" />
+      <created>1569465821087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569465821087</updated>
+      <workItem from="1569465825074" duration="3882000" />
+      <workItem from="1569546999974" duration="7699000" />
+      <workItem from="1569720816940" duration="2435000" />
+      <workItem from="1569806395050" duration="3090000" />
+      <workItem from="1570498824471" duration="15723000" />
+      <workItem from="1570759941665" duration="3721000" />
+      <workItem from="1570773499074" duration="7835000" />
+      <workItem from="1571018629796" duration="2335000" />
+      <workItem from="1571032128146" duration="4176000" />
+      <workItem from="1571101202740" duration="6837000" />
+      <workItem from="1571188583602" duration="17875000" />
+      <workItem from="1571274621884" duration="9654000" />
+      <workItem from="1571292798943" duration="11056000" />
+      <workItem from="1571620619325" duration="745000" />
+      <workItem from="1571622928871" duration="1491000" />
+      <workItem from="1571638807211" duration="1379000" />
+      <workItem from="1571645466315" duration="3383000" />
+      <workItem from="1571723127841" duration="3276000" />
+      <workItem from="1571793637832" duration="2172000" />
+      <workItem from="1571879840252" duration="592000" />
+      <workItem from="1571967552820" duration="592000" />
+      <workItem from="1572057321667" duration="2059000" />
+      <workItem from="1572224364204" duration="912000" />
+      <workItem from="1572262320194" duration="106000" />
+      <workItem from="1572262481498" duration="24000" />
+      <workItem from="1572262554475" duration="615000" />
+      <workItem from="1572311490459" duration="789000" />
+      <workItem from="1572350214864" duration="344000" />
+      <workItem from="1572398405042" duration="2418000" />
+      <workItem from="1572484990907" duration="3035000" />
+      <workItem from="1572571103562" duration="1199000" />
+      <workItem from="1572577256628" duration="243000" />
+      <workItem from="1572833314119" duration="2408000" />
+      <workItem from="1572917404610" duration="2281000" />
+      <workItem from="1573003993713" duration="1197000" />
+      <workItem from="1573180638525" duration="739000" />
+      <workItem from="1573438736817" duration="608000" />
+      <workItem from="1573461191831" duration="3643000" />
+      <workItem from="1573523330380" duration="311000" />
+      <workItem from="1573523716290" duration="2535000" />
+      <workItem from="1573610598900" duration="592000" />
+      <workItem from="1574040378005" duration="2445000" />
+      <workItem from="1574044154467" duration="12393000" />
+      <workItem from="1574066066325" duration="1418000" />
+      <workItem from="1574126363658" duration="2384000" />
+      <workItem from="1574129157725" duration="1078000" />
+      <workItem from="1574130355060" duration="108000" />
+      <workItem from="1574130539413" duration="2368000" />
+      <workItem from="1574132981688" duration="11643000" />
+      <workItem from="1574219518634" duration="3371000" />
+      <workItem from="1574298823140" duration="9193000" />
+      <workItem from="1574324048604" duration="2867000" />
+      <workItem from="1574386675157" duration="12691000" />
+      <workItem from="1574647106229" duration="11255000" />
+      <workItem from="1574837683088" duration="301000" />
+      <workItem from="1574904153325" duration="593000" />
+      <workItem from="1574927801626" duration="2320000" />
+      <workItem from="1574989749823" duration="3729000" />
+      <workItem from="1575355010913" duration="5285000" />
+      <workItem from="1575423215780" duration="8484000" />
+      <workItem from="1575509075497" duration="3785000" />
+      <workItem from="1575541121980" duration="1838000" />
+      <workItem from="1575595151927" duration="376000" />
+      <workItem from="1575596574728" duration="2129000" />
+      <workItem from="1575855008504" duration="12340000" />
+      <workItem from="1575939939412" duration="10573000" />
+      <workItem from="1576026247318" duration="571000" />
+      <workItem from="1576031590465" duration="1021000" />
+      <workItem from="1576128963797" duration="2829000" />
+      <workItem from="1576199383613" duration="8238000" />
+      <workItem from="1576459462855" duration="1809000" />
+      <workItem from="1576545314281" duration="4711000" />
+      <workItem from="1576631536124" duration="5127000" />
+      <workItem from="1576718158042" duration="12845000" />
+      <workItem from="1576804131076" duration="632000" />
+      <workItem from="1577063792445" duration="11919000" />
+      <workItem from="1577152980680" duration="327000" />
+      <workItem from="1577153662948" duration="6197000" />
+      <workItem from="1577322451047" duration="3387000" />
+      <workItem from="1577424575028" duration="9753000" />
+      <workItem from="1577667629070" duration="9237000" />
+      <workItem from="1577690295279" duration="2475000" />
+      <workItem from="1577756300518" duration="473000" />
+      <workItem from="1577770774287" duration="3600000" />
+      <workItem from="1578014223846" duration="2803000" />
+      <workItem from="1578361603666" duration="19000" />
+      <workItem from="1578375067155" duration="4539000" />
+      <workItem from="1578446179421" duration="5866000" />
+      <workItem from="1578533788623" duration="5126000" />
+      <workItem from="1578964938027" duration="588000" />
+      <workItem from="1578985157674" duration="2024000" />
+      <workItem from="1579137455160" duration="1109000" />
+      <workItem from="1579168696968" duration="1618000" />
+      <workItem from="1579224017876" duration="592000" />
+      <workItem from="1579238929015" duration="709000" />
+      <workItem from="1579396610129" duration="574000" />
+      <workItem from="1579398841774" duration="584000" />
+      <workItem from="1579569405710" duration="566000" />
+      <workItem from="1579583878433" duration="629000" />
+      <workItem from="1579655475630" duration="589000" />
+      <workItem from="1582343186695" duration="1423000" />
+      <workItem from="1582593502438" duration="5902000" />
+      <workItem from="1582680063815" duration="3132000" />
+      <workItem from="1582856696889" duration="533000" />
+      <workItem from="1582865896533" duration="2955000" />
+      <workItem from="1583221863720" duration="1096000" />
+      <workItem from="1583284340181" duration="840000" />
+      <workItem from="1583299727612" duration="1245000" />
+      <workItem from="1583995066494" duration="2037000" />
+      <workItem from="1584012755161" duration="580000" />
+      <workItem from="1584062630715" duration="6647000" />
+      <workItem from="1584235454569" duration="570000" />
+      <workItem from="1584619744783" duration="624000" />
+      <workItem from="1584666697071" duration="592000" />
+      <workItem from="1584682766166" duration="8871000" />
+      <workItem from="1584926271915" duration="3255000" />
+      <workItem from="1584940275290" duration="2511000" />
+      <workItem from="1585015895548" duration="617000" />
+      <workItem from="1585191189840" duration="536000" />
+      <workItem from="1585271854704" duration="620000" />
+      <workItem from="1585295014884" duration="624000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../bcare2/02Product/bcsc-bcare/portal-web/node_modules/umi-plugin-dva/src/fixtures/getModel/models/models/a.js" />
+        <option value="$PROJECT_DIR$/../bcare2/02Product/bcsc-bcare/portal-web/node_modules/umi-plugin-dva/src/fixtures/getModel/models/models/a.jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kevin-base/src/main/java/com/kevin/usc/base/utils/SpringBeanUtil.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="userService.getUserById(userId)" language="JAVA" />
+        <watch expression="userRepository.findByUserNameLike(userName)" language="JAVA" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="((HashMap)map).entrySet().toArray()[0]" custom="java.util.HashMap" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/kevin_nacos_manage$GUITest.ic" NAME="GUITest Coverage Results" MODIFIED="1577153825954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.kevin.usc.core.utils.*</FILTER>
+    </SUITE>
+  </component>
+</project>

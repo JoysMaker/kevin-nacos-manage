@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.kevin.usc.test.persistent.mybatis.BcscTicketTypeAttrDtoMapper">
+  <resultMap id="BaseResultMap" type="com.kevin.usc.test.persistent.po.BcscTicketTypeAttrDto">
+    <id column="ATTR_VALUE_ID" jdbcType="DECIMAL" property="attrValueId" />
+    <result column="TICKET_TYPE_ID" jdbcType="DECIMAL" property="ticketTypeId" />
+    <result column="ATTR_ID" jdbcType="DECIMAL" property="attrId" />
+    <result column="ATTR_VALUE" jdbcType="VARCHAR" property="attrValue" />
+    <result column="STATE" jdbcType="VARCHAR" property="state" />
+    <result column="COMMENTS" jdbcType="VARCHAR" property="comments" />
+  </resultMap>
+</mapper>

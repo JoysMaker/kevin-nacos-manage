@@ -1,0 +1,17 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: 127.0.0.1:8848
+        namespace: b35f3660-8045-4138-bfc4-beb2b8535b65
+        ext-config:
+          - data-id: jpa.yaml
+          - data-id: db.yaml
+            refresh: true
+      discovery:
+        server-addr: 127.0.0.1:8848
+        namespace: b35f3660-8045-4138-bfc4-beb2b8535b65
+    #添加监控
+    sentinel:
+      transport:
+        dashboard: localhost:8688

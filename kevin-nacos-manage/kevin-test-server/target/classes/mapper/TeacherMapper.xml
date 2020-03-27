@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.kevin.usc.test.persistent.mybatis.TeacherMapper">
+  <resultMap id="BaseResultMap" type="com.kevin.usc.test.persistent.po.Teacher">
+    <id column="teacher_id" jdbcType="BIGINT" property="teacherId" />
+    <result column="teacher_name" jdbcType="VARCHAR" property="teacherName" />
+    <result column="teacher_no" jdbcType="VARCHAR" property="teacherNo" />
+    <result column="teacher_type" jdbcType="BIGINT" property="teacherType" />
+    <result column="gender" jdbcType="BIGINT" property="gender" />
+    <result column="nation" jdbcType="BIGINT" property="nation" />
+    <result column="identity_type" jdbcType="BIGINT" property="identityType" />
+    <result column="identity_num" jdbcType="VARCHAR" property="identityNum" />
+    <result column="politics" jdbcType="BIGINT" property="politics" />
+    <result column="native_place" jdbcType="VARCHAR" property="nativePlace" />
+    <result column="birthday" jdbcType="TIMESTAMP" property="birthday" />
+    <result column="photo" jdbcType="BIGINT" property="photo" />
+    <result column="tel_num" jdbcType="VARCHAR" property="telNum" />
+    <result column="address" jdbcType="VARCHAR" property="address" />
+    <result column="enter_time" jdbcType="TIMESTAMP" property="enterTime" />
+    <result column="healthy" jdbcType="BIGINT" property="healthy" />
+    <result column="is_zaibian" jdbcType="VARCHAR" property="isZaibian" />
+    <result column="status" jdbcType="BIGINT" property="status" />
+    <result column="school_id" jdbcType="BIGINT" property="schoolId" />
+    <result column="create_user" jdbcType="BIGINT" property="createUser" />
+    <result column="create_time" jdbcType="TIMESTAMP" property="createTime" />
+    <result column="update_user" jdbcType="BIGINT" property="updateUser" />
+    <result column="update_time" jdbcType="TIMESTAMP" property="updateTime" />
+    <result column="del_flag" jdbcType="VARCHAR" property="delFlag" />
+  </resultMap>
+</mapper>

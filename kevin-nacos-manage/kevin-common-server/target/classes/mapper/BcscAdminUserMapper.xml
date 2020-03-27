@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.kevin.usc.common.persistent.mybaits.BcscAdminUserMapper">
+  <resultMap id="BaseResultMap" type="com.kevin.usc.common.persistent.po.BcscAdminUser">
+    <id column="ADMIN_USER_ID" jdbcType="DECIMAL" property="adminUserId" />
+    <result column="USER_ID" jdbcType="DECIMAL" property="userId" />
+    <result column="ADMIN_TYPE" jdbcType="CHAR" property="adminType" />
+    <result column="PROFILE_UUID" jdbcType="VARCHAR" property="profileUuid" />
+    <result column="CUST_ID" jdbcType="DECIMAL" property="custId" />
+    <result column="DEPARTMENT_ID" jdbcType="DECIMAL" property="departmentId" />
+    <result column="CREATED_DATE" jdbcType="TIMESTAMP" property="createdDate" />
+    <result column="STATE" jdbcType="CHAR" property="state" />
+    <result column="STATE_DATE" jdbcType="TIMESTAMP" property="stateDate" />
+    <result column="EFF_DATE" jdbcType="TIMESTAMP" property="effDate" />
+    <result column="EXP_DATE" jdbcType="TIMESTAMP" property="expDate" />
+    <result column="SP_ID" jdbcType="DECIMAL" property="spId" />
+  </resultMap>
+</mapper>

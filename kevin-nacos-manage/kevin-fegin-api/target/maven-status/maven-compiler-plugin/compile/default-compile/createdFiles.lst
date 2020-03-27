@@ -1,0 +1,4 @@
+com\kevin\usc\fegin\api\pay\PayService.class
+com\kevin\usc\fegin\api\common\CommonService.class
+com\kevin\usc\fegin\api\SystemContants.class
+com\kevin\usc\fegin\api\SystemContants$ServerName.class

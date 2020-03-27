@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="kevin-pay-server" />
+        <module name="kevin-core" />
+        <module name="kevin-base" />
+        <module name="kevin-test-server" />
+        <module name="kevin-gateway-server" />
+        <module name="kevin-fegin-api" />
+        <module name="kevin-security-server" />
+        <module name="kevin-common-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="kevin-base" target="1.8" />
+      <module name="kevin-common-server" target="1.8" />
+      <module name="kevin-core" target="1.8" />
+      <module name="kevin-fegin-api" target="1.8" />
+      <module name="kevin-gateway-server" target="1.8" />
+      <module name="kevin-nacos-manage" target="1.8" />
+      <module name="kevin-pay-server" target="1.8" />
+      <module name="kevin-portal" target="1.8" />
+      <module name="kevin-portal-server" target="1.8" />
+      <module name="kevin-security" target="1.8" />
+      <module name="kevin-security-server" target="1.8" />
+      <module name="kevin-test-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="kevin-base" options="-parameters" />
+      <module name="kevin-common-server" options="-parameters" />
+      <module name="kevin-core" options="-parameters" />
+      <module name="kevin-fegin-api" options="-parameters" />
+      <module name="kevin-gateway-server" options="-parameters" />
+      <module name="kevin-pay-server" options="-parameters" />
+      <module name="kevin-portal" options="-parameters" />
+      <module name="kevin-portal-server" options="-parameters" />
+      <module name="kevin-security" options="-parameters" />
+      <module name="kevin-security-server" options="-parameters" />
+      <module name="kevin-test-server" options="-parameters" />
+    </option>
+  </component>
+</project>

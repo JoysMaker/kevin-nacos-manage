@@ -1,0 +1,71 @@
+
+server:
+  port: 6011
+
+spring:
+  application:
+    name: GateWay
+  servlet:
+    multipart:
+      max-file-size: 10MB
+
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+      routes:
+        - id: pay-server
+          uri: lb://PAY-SERVER
+          predicates:
+            - Path=/pay/**
+          filters:
+            # StripPrefixGatewayFilterFactory
+            #比如，请求/name/bar/foo，去除掉前面两个前缀之后，最后转发到目标服务的路径为/bar/foo
+            - StripPrefix=1
+            #熔断器(固定类)
+            - name: Hystrix
+              args:
+                #熔断器的名字
+                name: fallbackcmd
+                #服务出现故障后处理的路径
+                fallbackUri: forward:/fallback/timeout
+
+        - id: common-server
+          uri: lb://COMMON-SERVER
+          predicates:
+            - Path=/common/**
+          filters:
+            - StripPrefix=1
+            - name: Hystrix
+              args:
+                name: fallbackcmd
+                fallbackUri: forward:/fallback/timeout
+
+        - id: test-server
+          uri: lb://TEST-SERVER
+          predicates:
+            - Path=/test/**
+          filters:
+            - StripPrefix=1
+            - name: Hystrix
+              args:
+                name: fallbackcmd
+                fallbackUri: forward:/fallback/timeout
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

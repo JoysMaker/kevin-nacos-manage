@@ -1,0 +1,15 @@
+server:
+  port: 6012
+
+spring:
+  application:
+    name: COMMON-SERVER
+  servlet:
+    multipart:
+      max-file-size: 10Mb
+      max-request-size: 10Mb
+      file-size-threshold: 10Mb
+
+
+
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.kevin.usc.pay.persistent.mybatis.ConfigInfoMapper">
+  <resultMap id="BaseResultMap" type="com.kevin.usc.pay.persistent.po.ConfigInfo">
+    <id column="id" jdbcType="BIGINT" property="id" />
+    <result column="data_id" jdbcType="VARCHAR" property="dataId" />
+    <result column="group_id" jdbcType="VARCHAR" property="groupId" />
+    <result column="md5" jdbcType="VARCHAR" property="md5" />
+    <result column="gmt_create" jdbcType="TIMESTAMP" property="gmtCreate" />
+    <result column="gmt_modified" jdbcType="TIMESTAMP" property="gmtModified" />
+    <result column="src_ip" jdbcType="VARCHAR" property="srcIp" />
+    <result column="app_name" jdbcType="VARCHAR" property="appName" />
+    <result column="tenant_id" jdbcType="VARCHAR" property="tenantId" />
+    <result column="c_desc" jdbcType="VARCHAR" property="cDesc" />
+    <result column="c_use" jdbcType="VARCHAR" property="cUse" />
+    <result column="effect" jdbcType="VARCHAR" property="effect" />
+    <result column="type" jdbcType="VARCHAR" property="type" />
+    <result column="content" jdbcType="LONGVARCHAR" property="content" />
+    <result column="src_user" jdbcType="LONGVARCHAR" property="srcUser" />
+    <result column="c_schema" jdbcType="LONGVARCHAR" property="cSchema" />
+  </resultMap>
+</mapper>

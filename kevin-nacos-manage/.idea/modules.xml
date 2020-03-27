@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kevin-base/kevin-base.iml" filepath="$PROJECT_DIR$/kevin-base/kevin-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kevin-common-server/kevin-common-server.iml" filepath="$PROJECT_DIR$/kevin-common-server/kevin-common-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kevin-core/kevin-core.iml" filepath="$PROJECT_DIR$/kevin-core/kevin-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kevin-fegin-api/kevin-fegin-api.iml" filepath="$PROJECT_DIR$/kevin-fegin-api/kevin-fegin-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kevin-gateway-server/kevin-gateway-server.iml" filepath="$PROJECT_DIR$/kevin-gateway-server/kevin-gateway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kevin-nacos-manage.iml" filepath="$PROJECT_DIR$/kevin-nacos-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kevin-pay-server/kevin-pay-server.iml" filepath="$PROJECT_DIR$/kevin-pay-server/kevin-pay-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kevin-portal-server/kevin-portal-server.iml" filepath="$PROJECT_DIR$/kevin-portal-server/kevin-portal-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kevin-security-server/kevin-security-server.iml" filepath="$PROJECT_DIR$/kevin-security-server/kevin-security-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kevin-test-server/kevin-test-server.iml" filepath="$PROJECT_DIR$/kevin-test-server/kevin-test-server.iml" />
+    </modules>
+  </component>
+</project>

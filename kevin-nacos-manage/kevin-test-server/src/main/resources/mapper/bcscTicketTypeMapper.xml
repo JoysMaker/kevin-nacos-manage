@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.kevin.usc.test.persistent.mybatis.bcscTicketTypeMapper">
+  <resultMap id="BaseResultMap" type="com.kevin.usc.test.persistent.po.bcscTicketType">
+    <id column="TICKET_TYPE_ID" jdbcType="DECIMAL" property="ticketTypeId" />
+    <result column="TICKET_TYPE_NAME" jdbcType="VARCHAR" property="ticketTypeName" />
+    <result column="TICKET_CATEGORY" jdbcType="VARCHAR" property="ticketCategory" />
+    <result column="CASE_SERVICE_TYPE_CODE" jdbcType="VARCHAR" property="caseServiceTypeCode" />
+    <result column="STATE" jdbcType="VARCHAR" property="state" />
+    <result column="COMMENTS" jdbcType="VARCHAR" property="comments" />
+  </resultMap>
+</mapper>

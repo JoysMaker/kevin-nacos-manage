@@ -1,0 +1,15 @@
+com\kevin\usc\pay\mvc\controller\PayController.class
+com\kevin\usc\pay\persistent\mybatis\TUserMapper.class
+com\kevin\usc\pay\config\db\TargetDataSource.class
+com\kevin\usc\pay\mvc\service\TUserService.class
+com\kevin\usc\pay\persistent\po\ConfigInfo.class
+com\kevin\usc\pay\config\db\DynamicDataSourceAspect.class
+com\kevin\usc\pay\config\db\DynamicDataSourceContextHolder$1.class
+com\kevin\usc\PayServerApplication.class
+com\kevin\usc\pay\config\db\DynamicDataSourceContextHolder.class
+com\kevin\usc\pay\persistent\jpa\TUserRepository.class
+com\kevin\usc\pay\config\db\DynamicRoutingDataSource.class
+com\kevin\usc\pay\persistent\mybatis\ConfigInfoMapper.class
+com\kevin\usc\pay\mvc\service\NacosService.class
+com\kevin\usc\pay\persistent\po\TUser.class
+com\kevin\usc\pay\config\db\DataSourceConfig.class

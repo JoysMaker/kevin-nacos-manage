@@ -1,0 +1,4 @@
+com\kevin\usc\GateWayServerApplication.class
+com\kevin\usc\gateway\config\CorsConfig$1.class
+com\kevin\usc\gateway\filter\AccessTokenFilter.class
+com\kevin\usc\gateway\config\CorsConfig.class

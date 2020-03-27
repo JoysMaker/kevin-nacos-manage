@@ -1,0 +1,22 @@
+spring:
+  datasource:
+    jdbc-url: jdbc:mysql://127.0.0.1:3306/ehomework?autoReconnect=true&characterEncoding=UTF-8&useSSL=false
+    username: root
+    password: root
+    driver-class-name:
+    type: com.zaxxer.hikari.HikariDataSource
+    hikari:
+      maximum-pool-size: 10
+      idle-timeout: 3000
+
+#mybatis
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.kevin.usc.common.persistent.po
+#1.tk.mapper 配置文件方式  2.@MapperScan注解方式 选一
+mapper:
+  mappers: com.kevin.usc.core.mapper.TKMysqlMapper,com.kevin.usc.core.mapper.TKOracleMapper
+  not-empty: true
+  before: false

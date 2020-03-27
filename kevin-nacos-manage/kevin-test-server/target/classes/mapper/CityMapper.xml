@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.kevin.usc.test.persistent.mybatis.CityMapper">
+  <resultMap id="BaseResultMap" type="com.kevin.usc.test.persistent.po.City">
+    <id column="city_id" jdbcType="BIGINT" property="cityId" />
+    <result column="city_name" jdbcType="VARCHAR" property="cityName" />
+    <result column="mode" jdbcType="VARCHAR" property="mode" />
+    <result column="op_mode" jdbcType="VARCHAR" property="opMode" />
+    <result column="fianchisee_name" jdbcType="VARCHAR" property="fianchiseeName" />
+    <result column="city_admins" jdbcType="VARCHAR" property="cityAdmins" />
+    <result column="open_time" jdbcType="TIMESTAMP" property="openTime" />
+    <result column="update_time" jdbcType="TIMESTAMP" property="updateTime" />
+    <result column="sys_user_name" jdbcType="VARCHAR" property="sysUserName" />
+  </resultMap>
+</mapper>
