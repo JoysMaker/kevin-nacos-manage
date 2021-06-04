@@ -47,7 +47,7 @@
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
         <commons-lang.version>2.6</commons-lang.version>
         <zxing.version>3.3.0</zxing.version>
-        <httpclient.version>4.5</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <kevin.version>1.0-SNAPSHOT</kevin.version>
         <docker.repostory>registry.cn-hangzhou.aliyuncs.com</docker.repostory>
         <docker.registry.name>usc-cloud</docker.registry.name>
